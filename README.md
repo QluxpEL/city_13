@@ -55,3 +55,11 @@ Once validated, the server sends the bullet information (start and end CFrame, t
 
 This approach keeps the gun system feeling responsive while maintaining server authority over all gameplay-critical aspects.
 </p>
+
+<br>
+<br>
+<p align="middle">
+  <a href="https://github.com/QluxpEL#-city-13">
+    <img src="https://img.shields.io/badge/GitHub-return_to_main_page-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
